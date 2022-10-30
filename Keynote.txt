@@ -1,4 +1,7 @@
 Project | Information
-	Am I herping
-	Or am I derping
-		I hope I figure it out
+	Issue Title
+		Issue Description
+			Bullet 1: This is what the issue is
+			Bullet 2: This is further info about the issue
+Project | Slide 2
+	We'll see what happens now
