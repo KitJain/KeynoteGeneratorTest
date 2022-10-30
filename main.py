@@ -2,7 +2,7 @@ import os
 import sys
 
 def main():
-    print("Hello world!")
+    os.system("osascript /Users/ankitjain/github/KeynoteGeneratorTest/keynotefiller.scpt")
 
 if __name__ == "__main__":
     main()

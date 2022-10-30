@@ -1,5 +1,4 @@
-HerpDerp
-	I Derp the Herp Derp
-		Still Helping and Derping
-But am I herping
+Project | Information
+	Am I herping
 	Or am I derping
+		I hope I figure it out
